@@ -1,5 +1,5 @@
 # Find-Your-Zen
 A simple ascii art program
-Currently only for MAC or GNU/Linux, maybe other terminals using bash.
-Will probably work on windows but prolly wont clear terminal after each art is displayed.
-Credits to artist.
+Currently only for OSX or GNU/Linux, Maybe other terminals using bash.
+Will probably work on windows but won't clear terminal after each art is displayed.
+Credits to artists.
